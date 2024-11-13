@@ -25,6 +25,6 @@ Let's try again, ...!`; // сообщение при ошибки в ответ�
     }
     i += 1;
   }
-  return 'Congratulations,';
+  return `Congratulations, ${name}`;
 };
 console.log(solution());
