@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 const right = () => {
   const i = 'Correct!'; // сообщение правильный ответ
   return i;
@@ -23,7 +24,7 @@ const simile = (a, b) => {
   }
   return result;
 };
-
+const definiteRandom = (min, max) => Math.round(Math.random() * (max - min) + min); // рандомное число от и до
 export {
-  right, randomOne, randomeTwo, errorUser, simile,
+  right, randomOne, randomeTwo, errorUser, simile, definiteRandom,
 };
