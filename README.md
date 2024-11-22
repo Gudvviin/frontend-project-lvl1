@@ -9,3 +9,5 @@ https://asciinema.org/a/yx2POYWjbD7A7EZzvCTclSd46 // game #2
 https://asciinema.org/a/iI7OZydlb9x8u1lC5UahgJR8R // game #3
 
 https://asciinema.org/a/nfIuWKB8N9VtuyfffBa2lARtO // game #4
+
+https://asciinema.org/a/rfUeIiaGjM9fUrKoBWixfLlxH // game # 5
